@@ -27,6 +27,6 @@ classifiers = [
 dependencies = ["pynacl>=1.5.0"]
 
 [project.urls]
-Homepage = "https://github.com/jwgale/sanctum"
-Repository = "https://github.com/jwgale/sanctum-sdk-python"
-Issues = "https://github.com/jwgale/sanctum-sdk-python/issues"
+Homepage = "https://sanctumai.dev"
+Repository = "https://github.com/SanctumSec/sanctum-sdk-python"
+Issues = "https://github.com/SanctumSec/sanctum-sdk-python/issues"
